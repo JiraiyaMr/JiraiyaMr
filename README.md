@@ -40,7 +40,9 @@ He-Xi Liu, Xiao-Heng Chang, Li-Wei Hou.
 
 | Project | Engineering focus | Source |
 | --- | --- | --- |
-| Embedded robot control portfolio | Mecanum chassis, swerve-drive kinematics, PID loops, CAN communication, and a related gimbal/INS snapshot | [Code & source guide](https://github.com/JiraiyaMr/robot-control-portfolio) |
+| Gimbal–mecanum-wheel robot | Four-wheel velocity mixing, wheel-speed PID, power limiting, and CAN-based board communication. | [Code & documentation](https://github.com/JiraiyaMr/gimbal-mecanum-robot) |
+| Gimbal–omniwheel robot | Chassis speed mixing, motor-feedback PID, yaw control, pitch motor commands, BMI088 sensing, and USB/PC interfaces. | [Code & documentation](https://github.com/JiraiyaMr/gimbal-omniwheel-robot) |
+| Gimbal–swerve-drive robot | Four-module velocity decomposition, atan2 steering targets, cascaded steering PID, and CAN-based board communication. | [Code & documentation](https://github.com/JiraiyaMr/gimbal-swerve-robot) |
 | Modular vision-based waste-sorting system | STM32/FreeRTOS actuation and integration with host-side recognition; conveyors, rotary sorting, release, sensing, and compression | [Code & architecture](https://github.com/JiraiyaMr/Modular-Vision-Based-Waste-Sorting-System) |
 | Quadrotor PID gain tuning | Neural-network-based online PID gain adjustment, evaluated in MATLAB/Simulink | [Research summary](https://JiraiyaMr.github.io/#research) |
 
