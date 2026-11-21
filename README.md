@@ -46,7 +46,7 @@ He-Xi Liu, Xiao-Heng Chang, Li-Wei Hou.
 | Modular vision-based waste-sorting system | STM32/FreeRTOS actuation and integration with host-side recognition; conveyors, rotary sorting, release, sensing, and compression | [Code & architecture](https://github.com/JiraiyaMr/Modular-Vision-Based-Waste-Sorting-System) |
 | Quadrotor PID gain tuning | Neural-network-based online PID gain adjustment, evaluated in MATLAB/Simulink | [Research summary](https://JiraiyaMr.github.io/#research) |
 
-My engineering experience includes chassis application software, motor-control loops, gimbal and launching functions, and subsystem integration. Public snapshots include shared team code, vendor libraries, and attributed upstream algorithms; the repository documentation describes their scope.
+For all three robot projects, I was responsible for control software design, development, and debugging, building on the team’s existing framework. Original team, vendor, and upstream attribution is retained in the repositories.
 
 ## Background
 
