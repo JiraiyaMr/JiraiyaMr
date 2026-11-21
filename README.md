@@ -15,6 +15,17 @@ I am interested in research internships in control and robotics in 2027, and pla
 - **State estimation and tracking:** observer-based H∞ control and disk-region constraints on frozen closed-loop models.
 - **Robotic systems:** motion control, inertial sensing, embedded implementation, and learning-enabled control.
 
+## Research experience
+
+**PD observer-based H∞ tracking control with 𝒟-stability constraints**  
+Graduate research · Wuhan University of Science and Technology · 2026–present  
+Related manuscript: **IJRNC — Under review**
+
+- Developed a proportional–difference observer and output-tracking controller for discrete-time interval type-2 T–S fuzzy systems with measurement-output delays and dual-channel DoS attacks.
+- Derived LMI conditions for joint observer/controller synthesis, mean-square asymptotic stability, and prescribed H∞ tracking performance using Lyapunov–Krasovskii analysis and free-weighting matrices.
+- Incorporated disk-region 𝒟-stability constraints on the characteristic roots of corresponding frozen closed-loop models.
+- Implemented MATLAB/YALMIP simulations for a spring–mass system and a two-link robotic arm, including Monte Carlo evaluation and frozen-root analysis.
+
 ## Publications & manuscripts
 
 **Accepted · International Journal of Systems Science (IJSS)**  
